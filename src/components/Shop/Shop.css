@@ -10,3 +10,11 @@
     margin: 50px;
    
 }
+.pagination{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.pagination .selected{
+    background-color: chocolate;
+}
